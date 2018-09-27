@@ -1,0 +1,7 @@
+F:\JAVA\C#\SerializationWithPracties\SerializationWithPracties\bin\Debug\SerializationWithPracties.exe.config
+F:\JAVA\C#\SerializationWithPracties\SerializationWithPracties\bin\Debug\SerializationWithPracties.exe
+F:\JAVA\C#\SerializationWithPracties\SerializationWithPracties\bin\Debug\SerializationWithPracties.pdb
+F:\JAVA\C#\SerializationWithPracties\SerializationWithPracties\obj\Debug\SerializationWithPracties.csprojAssemblyReference.cache
+F:\JAVA\C#\SerializationWithPracties\SerializationWithPracties\obj\Debug\SerializationWithPracties.csproj.CoreCompileInputs.cache
+F:\JAVA\C#\SerializationWithPracties\SerializationWithPracties\obj\Debug\SerializationWithPracties.exe
+F:\JAVA\C#\SerializationWithPracties\SerializationWithPracties\obj\Debug\SerializationWithPracties.pdb
